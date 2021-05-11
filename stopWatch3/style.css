@@ -1,0 +1,18 @@
+header{
+    margin: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+.stopwatch{
+    margin: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.buttons {
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
